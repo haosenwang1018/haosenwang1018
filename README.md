@@ -1,33 +1,33 @@
-```
-> ssh sense@github.io
-> cat /home/sense/README
-```
+Hi there, Sense here.
 
-### Hey, I'm Sense 👋
+I am currently learning, out of curiosity about efficient intelligence.
 
-Builder. Hacker. Shipping fast.
+I worked with [Roderick](https://www.kehandong.com/), one of the people I am most grateful to, on the founding team of [Starting Point One](https://startingpointone.com/). I researched and tinkered with robotics with [Mingwei](https://github.com/SC-Levi) at [BIGAI](https://eng.bigai.ai/). All along, I have been learning LLMs with friends and with models.
+
+I believe in:
+
+- Courage and capability in alignment.
+- Software and hardware co-design.
+- Energy and efficiency as the first principles of intelligence.
+- Working on the right thing, with brilliant people.
+- Proactive action and proactive thinking.
+- Curiosity and questions.
+- The essence of things, and non-consensus views.
+- Always being grateful and persevering.
+
+I am passionate about:
+
+- Contributing pull requests to open source.
+- Coming up with ideas and testing them with experiments.
+- Making predictions and judgments, then seeking correction. It is also how I learn.
+
+If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
+
+Sense Wang
 
 ---
 
-```python
-class Sense:
-    langs   = ["Python", "TypeScript", "Go", "Elixir"]
-    focus   = ["AI Agents", "Infra", "Automation"]
-    motto   = "build it, ship it, break it, fix it"
-```
-
----
-
-#### `$ neofetch --stats`
-
-```
-repos       494          ████████████████████░  since 2024
-commits     1,081        ██████████░░░░░░░░░░░  last year
-langs       4            Python · TS · Go · Elixir
-open src    100%         all public, all open
-```
-
-#### `$ cat /coolest-contributions`
+#### Open source contributions
 
 | Project | What it does |
 |---------|-------------|
@@ -35,7 +35,3 @@ open src    100%         all public, all open
 | [**nanobot**](https://github.com/HKUDS/nanobot) | Ultra-lightweight OpenClaw runtime |
 | [**OpenClaw**](https://github.com/openclaw/openclaw) | Your personal AI assistant. Any OS. Any Platform 🦞 |
 | [**autoresearch**](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training |
-
----
-
-<sub>last login: today — always building something</sub>
