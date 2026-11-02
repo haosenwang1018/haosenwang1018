@@ -7,8 +7,8 @@ I previously worked with [Roderick](https://www.kehandong.com/), one of the peop
 I believe in:
 
 - Building something people use.
-- Courage and capability in alignment.
-- Software and hardware co-design.
+- Courage and capability alignment.
+- Software and hardware alignment.
 - Energy and efficiency as the first principles of intelligence.
 - Working on the right thing, with brilliant people.
 - Doing what I say I will do.
