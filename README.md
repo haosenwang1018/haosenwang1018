@@ -22,7 +22,8 @@ I am passionate about:
 - Making predictions and judgments, then seeking correction. It is also how I learn.
 - Writing articles about my views.
 - Contributing pull requests to open source.
-- Watching the moon and stars, hence the moon on [my homepage](https://sensewang.com) :)
+- Moon and stars, hence the moon on [my homepage](https://sensewang.com) :)
+- Bach and Queen.
 
 If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
 
