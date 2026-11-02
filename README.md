@@ -1,8 +1,8 @@
 Hi there, Sense here.
 
-I am currently learning, out of curiosity about efficient intelligence.
+I have been learning LLMs and writing about efficient intelligence, with friends and with models.
 
-I worked with [Roderick](https://www.kehandong.com/), one of the people I am most grateful to, on the founding team of [Starting Point One](https://startingpointone.com/). I researched and tinkered with robotics with [Mingwei](https://github.com/SC-Levi) at [BIGAI](https://eng.bigai.ai/). All along, I have been learning LLMs with friends and with models.
+I previously worked with [Roderick](https://www.kehandong.com/), one of the people I am most grateful to, on the founding team of [Starting Point One](https://startingpointone.com/). I researched and tinkered with robotics with [Mingwei](https://github.com/SC-Levi) at [BIGAI](https://eng.bigai.ai/).
 
 I believe in:
 
@@ -15,6 +15,7 @@ I believe in:
 - Curiosity and questioning.
 - The essence of things, and non-consensus views.
 - Always being grateful and persevering.
+- Low ego and high agency.
 
 I am passionate about:
 
