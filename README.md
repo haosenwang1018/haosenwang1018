@@ -13,7 +13,7 @@ I believe in:
 - Working on the right thing, with brilliant people.
 - Doing what I say I will do.
 - Curiosity and questioning.
-- The essence of things, and non-consensus views.
+- Essence and non-consensus.
 - Always being grateful and persevering.
 - Low ego and high agency.
 
@@ -25,6 +25,7 @@ I am passionate about:
 - Contributing pull requests to open source.
 - Moon and stars, hence the moon on [my homepage](https://sensewang.com) :)
 - Bach and Queen.
+- Working with people who dream that frontier intelligence belongs to everyone.
 
 If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
 
