@@ -6,6 +6,7 @@ I worked with [Roderick](https://www.kehandong.com/), one of the people I am mos
 
 I believe in:
 
+- Building something people use.
 - Courage and capability in alignment.
 - Software and hardware co-design.
 - Energy and efficiency as the first principles of intelligence.
@@ -20,6 +21,7 @@ I am passionate about:
 - Contributing pull requests to open source.
 - Coming up with ideas and testing them with experiments.
 - Making predictions and judgments, then seeking correction. It is also how I learn.
+- Writing articles about my views.
 
 If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
 
