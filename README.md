@@ -18,10 +18,10 @@ I believe in:
 
 I am passionate about:
 
-- Contributing pull requests to open source.
 - Coming up with ideas and testing them with experiments.
 - Making predictions and judgments, then seeking correction. It is also how I learn.
 - Writing articles about my views.
+- Contributing pull requests to open source.
 
 If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
 
