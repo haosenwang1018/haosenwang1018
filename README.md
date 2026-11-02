@@ -12,7 +12,7 @@ I believe in:
 - Energy and efficiency as the first principles of intelligence.
 - Working on the right thing, with brilliant people.
 - Proactive action and proactive thinking.
-- Curiosity and questions.
+- Curiosity and questioning.
 - The essence of things, and non-consensus views.
 - Always being grateful and persevering.
 
