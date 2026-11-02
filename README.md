@@ -11,7 +11,7 @@ I believe in:
 - Software and hardware co-design.
 - Energy and efficiency as the first principles of intelligence.
 - Working on the right thing, with brilliant people.
-- Proactive action and proactive thinking.
+- Doing what I say I will do.
 - Curiosity and questioning.
 - The essence of things, and non-consensus views.
 - Always being grateful and persevering.
@@ -22,6 +22,7 @@ I am passionate about:
 - Making predictions and judgments, then seeking correction. It is also how I learn.
 - Writing articles about my views.
 - Contributing pull requests to open source.
+- Watching the moon and stars (hence the moon on [my homepage](https://sensewang.com)).
 
 If you work toward this too, write to me: [wanghaosen1018@gmail.com](mailto:wanghaosen1018@gmail.com)
 
