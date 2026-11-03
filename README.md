@@ -41,3 +41,5 @@ Sense Wang
 | [**nanobot**](https://github.com/HKUDS/nanobot) | Ultra-lightweight OpenClaw runtime |
 | [**OpenClaw**](https://github.com/openclaw/openclaw) | Your personal AI assistant. Any OS. Any Platform 🦞 |
 | [**autoresearch**](https://github.com/karpathy/autoresearch) | AI agents running research on single-GPU nanochat training |
+
+<p align="right"><sub>Page inspired by <a href="https://nathanchen.me/">Nathan Chen</a></sub></p>
