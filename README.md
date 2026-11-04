@@ -1,6 +1,6 @@
 Hi there, Sense here.
 
-I have been learning LLMs and writing about efficient intelligence, with friends and with models.
+I have been learning LLMs and writing about efficient intelligence, with friends and with models. Been loving and learning model arch and infra, see [my writings](https://sensewang.com/writing/).
 
 I previously worked with [Roderick](https://www.kehandong.com/), one of the people I am most grateful to, on the founding team of [Starting Point One](https://startingpointone.com/). I researched and tinkered with robotics with [Mingwei](https://github.com/SC-Levi) at [BIGAI](https://eng.bigai.ai/).
 
